@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Maojianheng. 
+I am Mao jianheng, a third-year Ph.D. in Nanjing University of science and technology
 
 A data-driven personal website
 ======
