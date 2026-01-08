@@ -26,11 +26,11 @@ author:
   avatar           : "c89f501139af5fd344762aaf902c1ed8.jpg"
   name             : "Jianheng Mao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "A Ph.D. student on control science and technology."
+  location         : "No. 200 Xiaolingwei Avenue, Xuanwu District, Nanjing, China"
+  employer         : "Nanjing University of Science and Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "maojianheng@njust.edu.cn" 
 
   # Academic websites
   academia         : # URL
